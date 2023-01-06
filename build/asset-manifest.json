@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a729f1f9.chunk.css",
+    "main.js": "/static/js/main.efd25550.chunk.js",
+    "main.js.map": "/static/js/main.efd25550.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.46ade884.js",
+    "runtime-main.js.map": "/static/js/runtime-main.46ade884.js.map",
+    "static/js/2.c77075c2.chunk.js": "/static/js/2.c77075c2.chunk.js",
+    "static/js/2.c77075c2.chunk.js.map": "/static/js/2.c77075c2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f23ab43edabcf01065a82067fb189c03.js": "/precache-manifest.f23ab43edabcf01065a82067fb189c03.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a729f1f9.chunk.css.map": "/static/css/main.a729f1f9.chunk.css.map",
+    "static/js/2.c77075c2.chunk.js.LICENSE.txt": "/static/js/2.c77075c2.chunk.js.LICENSE.txt",
+    "static/media/0be9b123-d00bc462.mp4": "/static/media/0be9b123-d00bc462.6a88f712.mp4",
+    "static/media/Citadel-Rasnov-Romania.jpg": "/static/media/Citadel-Rasnov-Romania.ace703da.jpg",
+    "static/media/romania1.jpg": "/static/media/romania1.594eda13.jpg",
+    "static/media/romania2.jpg": "/static/media/romania2.2253011c.jpg",
+    "static/media/romania3.jpg": "/static/media/romania3.82bacadf.jpg",
+    "static/media/romania_karta.gif": "/static/media/romania_karta.0959bd51.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46ade884.js",
+    "static/js/2.c77075c2.chunk.js",
+    "static/css/main.a729f1f9.chunk.css",
+    "static/js/main.efd25550.chunk.js"
+  ]
+}
